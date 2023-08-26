@@ -1,9 +1,13 @@
 <h1><B>Privacy Policy of MreProgramming Apps</B></h1>
 
 This is the privacy policy for the android applications by Mre Programming (Michael Georgas): 
+
 1) Ultimate Ghost Detector Real
+   
 2) Ultimate EMF Detector RealData
+  
 3) Ultimate EMF Detector Real Pro
+  
 4) Ultimate EMF Detector Special
 
 This page is used to inform android users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our applications, mentioned above.
